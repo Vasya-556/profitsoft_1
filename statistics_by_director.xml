@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<statistics>
+    <item>
+        <value>Christopher Nolan</value>
+        <count>6</count>
+    </item>
+    <item>
+        <value>David Fincher</value>
+        <count>4</count>
+    </item>
+    <item>
+        <value>Ridley Scott</value>
+        <count>3</count>
+    </item>
+    <item>
+        <value>Quentin Tarantino</value>
+        <count>3</count>
+    </item>
+    <item>
+        <value>Frank Darabont</value>
+        <count>2</count>
+    </item>
+    <item>
+        <value>Francis Ford Coppola</value>
+        <count>2</count>
+    </item>
+    <item>
+        <value>Robert Zemeckis</value>
+        <count>2</count>
+    </item>
+    <item>
+        <value>James Cameron</value>
+        <count>2</count>
+    </item>
+    <item>
+        <value>Damien Chazelle</value>
+        <count>2</count>
+    </item>
+    <item>
+        <value>Todd Phillips</value>
+        <count>1</count>
+    </item>
+    <item>
+        <value>Lana Wachowski</value>
+        <count>1</count>
+    </item>
+    <item>
+        <value>Lilly Wachowski</value>
+        <count>1</count>
+    </item>
+    <item>
+        <value>Denis Villeneuve</value>
+        <count>1</count>
+    </item>
+</statistics>

@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Whiplash",
+    "year": 2014,
+    "director": "Damien Chazelle",
+    "genres": "Drama, Music"
+  },
+  {
+    "title": "La La Land",
+    "year": 2016,
+    "director": "Damien Chazelle",
+    "genres": "Drama, Romance"
+  },
+  {
+    "title": "Oppenheimer",
+    "year": 2023,
+    "director": "Christopher Nolan",
+    "genres": "Drama, History"
+  },
+  {
+    "title": "Tenet",
+    "year": 2020,
+    "director": "Christopher Nolan",
+    "genres": "Sci-Fi, Action"
+  },
+  {
+    "title": "Memento",
+    "year": 2000,
+    "director": "Christopher Nolan",
+    "genres": "Mystery, Thriller"
+  },
+  {
+    "title": "The Social Network",
+    "year": 2010,
+    "director": "David Fincher",
+    "genres": "Drama, Biography"
+  },
+  {
+    "title": "Fight Club",
+    "year": 1999,
+    "director": "David Fincher",
+    "genres": "Drama"
+  },
+  {
+    "title": "Se7en",
+    "year": 1995,
+    "director": "David Fincher",
+    "genres": "Crime, Thriller"
+  },
+  {
+    "title": "Gone Girl",
+    "year": 2014,
+    "director": "David Fincher",
+    "genres": "Drama, Mystery"
+  },
+  {
+    "title": "Arrival",
+    "year": 2016,
+    "director": "Denis Villeneuve",
+    "genres": "Sci-Fi, Drama"
+  }
+]

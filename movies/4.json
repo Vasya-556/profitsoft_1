@@ -1,0 +1,578 @@
+[
+  {
+    "title": "The Silence of the Lambs",
+    "year": 1991,
+    "director": "Jonathan Demme",
+    "genres": "Crime, Thriller"
+  },
+  {
+    "title": "The Departed",
+    "year": 2006,
+    "director": "Martin Scorsese",
+    "genres": "Crime, Drama"
+  },
+  {
+    "title": "Goodfellas",
+    "year": 1990,
+    "director": "Martin Scorsese",
+    "genres": "Crime, Biography"
+  },
+  {
+    "title": "Taxi Driver",
+    "year": 1976,
+    "director": "Martin Scorsese",
+    "genres": "Crime, Drama"
+  },
+  {
+    "title": "Raging Bull",
+    "year": 1980,
+    "director": "Martin Scorsese",
+    "genres": "Biography, Sport"
+  },
+  {
+    "title": "The Wolf of Wall Street",
+    "year": 2013,
+    "director": "Martin Scorsese",
+    "genres": "Biography, Crime"
+  },
+  {
+    "title": "There Will Be Blood",
+    "year": 2007,
+    "director": "Paul Thomas Anderson",
+    "genres": "Drama"
+  },
+  {
+    "title": "The Master",
+    "year": 2012,
+    "director": "Paul Thomas Anderson",
+    "genres": "Drama"
+  },
+  {
+    "title": "Phantom Thread",
+    "year": 2017,
+    "director": "Paul Thomas Anderson",
+    "genres": "Drama, Romance"
+  },
+  {
+    "title": "No Country for Old Men",
+    "year": 2007,
+    "director": "Ethan Coen",
+    "genres": "Crime, Drama"
+  },
+  {
+    "title": "Fargo",
+    "year": 1996,
+    "director": "Joel Coen",
+    "genres": "Crime, Thriller"
+  },
+  {
+    "title": "The Big Lebowski",
+    "year": 1998,
+    "director": "Joel Coen",
+    "genres": "Comedy, Crime"
+  },
+  {
+    "title": "Inside Llewyn Davis",
+    "year": 2013,
+    "director": "Ethan Coen",
+    "genres": "Drama, Music"
+  },
+  {
+    "title": "Birdman",
+    "year": 2014,
+    "director": "Alejandro G. Iñárritu",
+    "genres": "Comedy, Drama"
+  },
+  {
+    "title": "The Revenant",
+    "year": 2015,
+    "director": "Alejandro G. Iñárritu",
+    "genres": "Adventure, Drama"
+  },
+  {
+    "title": "Amores Perros",
+    "year": 2000,
+    "director": "Alejandro G. Iñárritu",
+    "genres": "Drama, Thriller"
+  },
+  {
+    "title": "Pan's Labyrinth",
+    "year": 2006,
+    "director": "Guillermo del Toro",
+    "genres": "Drama, Fantasy"
+  },
+  {
+    "title": "The Shape of Water",
+    "year": 2017,
+    "director": "Guillermo del Toro",
+    "genres": "Adventure, Drama"
+  },
+  {
+    "title": "Crimson Peak",
+    "year": 2015,
+    "director": "Guillermo del Toro",
+    "genres": "Drama, Fantasy"
+  },
+  {
+    "title": "The Grand Budapest Hotel",
+    "year": 2014,
+    "director": "Wes Anderson",
+    "genres": "Adventure, Comedy"
+  },
+  {
+    "title": "Moonrise Kingdom",
+    "year": 2012,
+    "director": "Wes Anderson",
+    "genres": "Comedy, Drama"
+  },
+  {
+    "title": "The Royal Tenenbaums",
+    "year": 2001,
+    "director": "Wes Anderson",
+    "genres": "Comedy, Drama"
+  },
+  {
+    "title": "Her",
+    "year": 2013,
+    "director": "Spike Jonze",
+    "genres": "Drama, Romance"
+  },
+  {
+    "title": "Being John Malkovich",
+    "year": 1999,
+    "director": "Spike Jonze",
+    "genres": "Comedy, Drama"
+  },
+  {
+    "title": "Adaptation.",
+    "year": 2002,
+    "director": "Spike Jonze",
+    "genres": "Comedy, Drama"
+  },
+  {
+    "title": "The Truman Show",
+    "year": 1998,
+    "director": "Peter Weir",
+    "genres": "Comedy, Drama"
+  },
+  {
+    "title": "Dead Poets Society",
+    "year": 1989,
+    "director": "Peter Weir",
+    "genres": "Comedy, Drama"
+  },
+  {
+    "title": "Master and Commander: The Far Side of the World",
+    "year": 2003,
+    "director": "Peter Weir",
+    "genres": "Adventure, Drama"
+  },
+  {
+    "title": "12 Angry Men",
+    "year": 1957,
+    "director": "Sidney Lumet",
+    "genres": "Crime, Drama"
+  },
+  {
+    "title": "Network",
+    "year": 1976,
+    "director": "Sidney Lumet",
+    "genres": "Drama"
+  },
+  {
+    "title": "Dog Day Afternoon",
+    "year": 1975,
+    "director": "Sidney Lumet",
+    "genres": "Biography, Crime"
+  },
+  {
+    "title": "American Beauty",
+    "year": 1999,
+    "director": "Sam Mendes",
+    "genres": "Drama"
+  },
+  {
+    "title": "1917",
+    "year": 2019,
+    "director": "Sam Mendes",
+    "genres": "Drama, War"
+  },
+  {
+    "title": "Road to Perdition",
+    "year": 2002,
+    "director": "Sam Mendes",
+    "genres": "Crime, Drama"
+  },
+  {
+    "title": "Parasite",
+    "year": 2019,
+    "director": "Bong Joon-ho",
+    "genres": "Thriller, Drama"
+  },
+  {
+    "title": "Memories of Murder",
+    "year": 2003,
+    "director": "Bong Joon-ho",
+    "genres": "Crime, Drama"
+  },
+  {
+    "title": "Snowpiercer",
+    "year": 2013,
+    "director": "Bong Joon-ho",
+    "genres": "Action, Drama"
+  },
+  {
+    "title": "Oldboy",
+    "year": 2003,
+    "director": "Park Chan-wook",
+    "genres": "Action, Drama"
+  },
+  {
+    "title": "The Handmaiden",
+    "year": 2016,
+    "director": "Park Chan-wook",
+    "genres": "Drama, Romance"
+  },
+  {
+    "title": "Thirst",
+    "year": 2009,
+    "director": "Park Chan-wook",
+    "genres": "Drama, Horror"
+  },
+  {
+    "title": "Spotlight",
+    "year": 2015,
+    "director": "Tom McCarthy",
+    "genres": "Biography, Crime"
+  },
+  {
+    "title": "The Big Short",
+    "year": 2015,
+    "director": "Adam McKay",
+    "genres": "Biography, Comedy"
+  },
+  {
+    "title": "Vice",
+    "year": 2018,
+    "director": "Adam McKay",
+    "genres": "Biography, Comedy"
+  },
+  {
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "year": 2004,
+    "director": "Michel Gondry",
+    "genres": "Drama, Romance"
+  },
+  {
+    "title": "The Lives of Others",
+    "year": 2006,
+    "director": "Florian Henckel von Donnersmarck",
+    "genres": "Drama, Thriller"
+  },
+  {
+    "title": "City of God",
+    "year": 2002,
+    "director": "Fernando Meirelles",
+    "genres": "Crime, Drama"
+  },
+  {
+    "title": "The Usual Suspects",
+    "year": 1995,
+    "director": "Bryan Singer",
+    "genres": "Crime, Mystery"
+  },
+  {
+    "title": "The Prestige",
+    "year": 2006,
+    "director": "Christopher Nolan",
+    "genres": "Drama, Mystery"
+  },
+  {
+    "title": "The Imitation Game",
+    "year": 2014,
+    "director": "Morten Tyldum",
+    "genres": "Biography, Drama"
+  },
+  {
+    "title": "A Beautiful Mind",
+    "year": 2001,
+    "director": "Ron Howard",
+    "genres": "Biography, Drama"
+  },
+  {
+    "title": "The King's Speech",
+    "year": 2010,
+    "director": "Tom Hooper",
+    "genres": "Biography, Drama"
+  },
+  {
+    "title": "Slumdog Millionaire",
+    "year": 2008,
+    "director": "Danny Boyle",
+    "genres": "Drama, Romance"
+  },
+  {
+    "title": "Trainspotting",
+    "year": 1996,
+    "director": "Danny Boyle",
+    "genres": "Drama"
+  },
+  {
+    "title": "127 Hours",
+    "year": 2010,
+    "director": "Danny Boyle",
+    "genres": "Adventure, Biography"
+  },
+  {
+    "title": "The Pianist",
+    "year": 2002,
+    "director": "Roman Polanski",
+    "genres": "Biography, Drama"
+  },
+  {
+    "title": "Chinatown",
+    "year": 1974,
+    "director": "Roman Polanski",
+    "genres": "Drama, Mystery"
+  },
+  {
+    "title": "Rosemary's Baby",
+    "year": 1968,
+    "director": "Roman Polanski",
+    "genres": "Drama, Horror"
+  },
+  {
+    "title": "The Breakfast Club",
+    "year": 1985,
+    "director": "John Hughes",
+    "genres": "Comedy, Drama"
+  },
+  {
+    "title": "Ferris Bueller's Day Off",
+    "year": 1986,
+    "director": "John Hughes",
+    "genres": "Comedy"
+  },
+  {
+    "title": "Planes, Trains & Automobiles",
+    "year": 1987,
+    "director": "John Hughes",
+    "genres": "Comedy, Drama"
+  },
+  {
+    "title": "The Sixth Sense",
+    "year": 1999,
+    "director": "M. Night Shyamalan",
+    "genres": "Drama, Mystery"
+  },
+  {
+    "title": "Unbreakable",
+    "year": 2000,
+    "director": "M. Night Shyamalan",
+    "genres": "Drama, Mystery"
+  },
+  {
+    "title": "Signs",
+    "year": 2002,
+    "director": "M. Night Shyamalan",
+    "genres": "Drama, Mystery"
+  },
+  {
+    "title": "The Iron Giant",
+    "year": 1999,
+    "director": "Brad Bird",
+    "genres": "Animation, Action"
+  },
+  {
+    "title": "Ratatouille",
+    "year": 2007,
+    "director": "Brad Bird",
+    "genres": "Animation, Comedy"
+  },
+  {
+    "title": "The Incredibles",
+    "year": 2004,
+    "director": "Brad Bird",
+    "genres": "Animation, Action"
+  },
+  {
+    "title": "Spirited Away",
+    "year": 2001,
+    "director": "Hayao Miyazaki",
+    "genres": "Animation, Adventure"
+  },
+  {
+    "title": "Princess Mononoke",
+    "year": 1997,
+    "director": "Hayao Miyazaki",
+    "genres": "Animation, Adventure"
+  },
+  {
+    "title": "My Neighbor Totoro",
+    "year": 1988,
+    "director": "Hayao Miyazaki",
+    "genres": "Animation, Family"
+  },
+  {
+    "title": "Akira",
+    "year": 1988,
+    "director": "Katsuhiro Otomo",
+    "genres": "Animation, Action"
+  },
+  {
+    "title": "Your Name",
+    "year": 2016,
+    "director": "Makoto Shinkai",
+    "genres": "Animation, Drama"
+  },
+  {
+    "title": "Weathering with You",
+    "year": 2019,
+    "director": "Makoto Shinkai",
+    "genres": "Animation, Drama"
+  },
+  {
+    "title": "The Lion King",
+    "year": 1994,
+    "director": "Roger Allers",
+    "genres": "Animation, Adventure"
+  },
+  {
+    "title": "Toy Story",
+    "year": 1995,
+    "director": "John Lasseter",
+    "genres": "Animation, Adventure"
+  },
+  {
+    "title": "WALL·E",
+    "year": 2008,
+    "director": "Andrew Stanton",
+    "genres": "Animation, Adventure"
+  },
+  {
+    "title": "The Terminator",
+    "year": 1984,
+    "director": "James Cameron",
+    "genres": "Action, Sci-Fi"
+  },
+  {
+    "title": "Aliens",
+    "year": 1986,
+    "director": "James Cameron",
+    "genres": "Action, Sci-Fi"
+  },
+  {
+    "title": "The Abyss",
+    "year": 1989,
+    "director": "James Cameron",
+    "genres": "Adventure, Drama"
+  },
+  {
+    "title": "Heat",
+    "year": 1995,
+    "director": "Michael Mann",
+    "genres": "Action, Crime"
+  },
+  {
+    "title": "Collateral",
+    "year": 2004,
+    "director": "Michael Mann",
+    "genres": "Crime, Drama"
+  },
+  {
+    "title": "The Insider",
+    "year": 1999,
+    "director": "Michael Mann",
+    "genres": "Biography, Drama"
+  },
+  {
+    "title": "The Hunt",
+    "year": 2012,
+    "director": "Thomas Vinterberg",
+    "genres": "Drama"
+  },
+  {
+    "title": "Another Round",
+    "year": 2020,
+    "director": "Thomas Vinterberg",
+    "genres": "Comedy, Drama"
+  },
+  {
+    "title": "A Separation",
+    "year": 2011,
+    "director": "Asghar Farhadi",
+    "genres": "Drama"
+  },
+  {
+    "title": "The Salesman",
+    "year": 2016,
+    "director": "Asghar Farhadi",
+    "genres": "Drama"
+  },
+  {
+    "title": "The Curious Case of Benjamin Button",
+    "year": 2008,
+    "director": "David Fincher",
+    "genres": "Drama, Fantasy"
+  },
+  {
+    "title": "The Big Blue",
+    "year": 1988,
+    "director": "Luc Besson",
+    "genres": "Drama, Sport"
+  },
+  {
+    "title": "Léon: The Professional",
+    "year": 1994,
+    "director": "Luc Besson",
+    "genres": "Action, Crime"
+  },
+  {
+    "title": "Amélie",
+    "year": 2001,
+    "director": "Jean-Pierre Jeunet",
+    "genres": "Comedy, Romance"
+  },
+  {
+    "title": "The Intouchables",
+    "year": 2011,
+    "director": "Olivier Nakache",
+    "genres": "Biography, Comedy"
+  },
+  {
+    "title": "La Haine",
+    "year": 1995,
+    "director": "Mathieu Kassovitz",
+    "genres": "Crime, Drama"
+  },
+  {
+    "title": "Cinema Paradiso",
+    "year": 1988,
+    "director": "Giuseppe Tornatore",
+    "genres": "Drama, Romance"
+  },
+  {
+    "title": "Life Is Beautiful",
+    "year": 1997,
+    "director": "Roberto Benigni",
+    "genres": "Comedy, Drama"
+  },
+  {
+    "title": "The Great Dictator",
+    "year": 1940,
+    "director": "Charlie Chaplin",
+    "genres": "Comedy, Drama"
+  },
+  {
+    "title": "Modern Times",
+    "year": 1936,
+    "director": "Charlie Chaplin",
+    "genres": "Comedy, Drama"
+  },
+  {
+    "title": "City Lights",
+    "year": 1931,
+    "director": "Charlie Chaplin",
+    "genres": "Comedy, Drama"
+  }
+]
