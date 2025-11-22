@@ -6,11 +6,11 @@ This app parse JSON files with arrays of movies and directors and generate XML b
 
 1. Clone this repository
 ```bash
-git clone
+git clone https://github.com/Vasya-556/profitsoft_1
 ```
 2. Navigate inside the folder
 ```bash
-cd 
+cd profitsoft_1
 ```
 3. Build project
 ```bash
